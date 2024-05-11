@@ -4,6 +4,7 @@
 **CRN: **CEN 3024C.
 
 ## Project Description
+Product class representing individual products
 
 ## Files Included
 Contains the main Java code for the project.
